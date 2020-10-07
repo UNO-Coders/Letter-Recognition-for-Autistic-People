@@ -1,5 +1,5 @@
 # Letter Recognition for Autistic People
----
+
 This open source project is made for Autistic People who has difficulties in writing letters. Using the touch screen or pen they can practice the Letters, words and also can have a option to listen to those words and also few general things who's name starts from that letter.
 
 ## About Autism
