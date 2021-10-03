@@ -64,7 +64,3 @@ If you want to add a project to this list, please make sure that:
 
 If they meet the requirements above, feel free to create a PR.
 
-
-License
-----
-The GNU General Public License
